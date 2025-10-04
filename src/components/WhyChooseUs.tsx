@@ -116,7 +116,7 @@ const WhyChooseUs = () => {
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <button
-                onClick={() => window.open('tel:+919876543210', '_self')}
+                onClick={() => window.open('tel:+919840168401', '_self')}
                 className="bg-gradient-primary hover:shadow-glow transform hover:scale-105 transition-all duration-300 px-8 py-4 rounded-lg font-rajdhani font-semibold text-primary-foreground"
               >
                 Call Now for Free Quote

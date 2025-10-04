@@ -78,7 +78,7 @@ const Navbar = () => {
 
             {/* CTA Button */}
             <Button
-              onClick={() => window.open('tel:+919876543210', '_self')}
+              onClick={() => window.open('tel:+919840168401', '_self')}
               className="bg-gradient-primary hover:shadow-glow transform hover:scale-105 transition-all duration-300 font-rajdhani font-semibold"
             >
               <Phone className="w-4 h-4 mr-2" />
@@ -132,7 +132,7 @@ const Navbar = () => {
                 Contact
               </Link>
               <Button
-                onClick={() => window.open('tel:+919876543210', '_self')}
+                onClick={() => window.open('tel:+919840168401', '_self')}
                 className="bg-gradient-primary hover:shadow-glow w-fit font-rajdhani font-semibold"
               >
                 <Phone className="w-4 h-4 mr-2" />

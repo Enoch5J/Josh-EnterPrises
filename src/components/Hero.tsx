@@ -56,7 +56,7 @@ const Hero = () => {
         <div className="animate-scale-in" style={{ animationDelay: '0.5s' }}>
           <div className="flex flex-col sm:flex-row gap-6 justify-center items-center mb-16">
             <Button
-              onClick={() => window.open('tel:+919876543210', '_self')}
+              onClick={() => window.open('tel:+919840168401', '_self')}
               size="lg"
               className="bg-gradient-primary hover:shadow-glow transform hover:scale-105 transition-all duration-300 font-rajdhani font-semibold text-lg px-8 py-6 animate-glow-pulse"
             >
